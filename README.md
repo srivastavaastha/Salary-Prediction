@@ -8,4 +8,6 @@ Prediction of one's salary by using just one variable which is year of experianc
 * visualize the data using learned model
 ## algorithem 
 linear regression
+## Credit
+Kaggle (for dataset)
 
